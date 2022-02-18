@@ -1,0 +1,1 @@
+first step for version control is git init then staging is done by git add -m"" and the last step is git commit.
